@@ -30,8 +30,7 @@ ifRefeicao/
 │   │   ├── vigia.py
 │   ├── utils.py
 ├── requirements.txt
-├── README.md
-└── ... (outros arquivos de configuração e documentação)
+└── README.md
 ```
 
 ### Descrição dos Módulos e Arquivos
