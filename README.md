@@ -29,12 +29,6 @@ ifRefeicao/
 │   │   ├── admin.py
 │   │   ├── vigia.py
 │   ├── utils.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_user.py
-│   ├── test_reservation.py
-│   ├── test_presence.py
-│   ├── test_websocket.py
 ├── requirements.txt
 ├── README.md
 └── ... (outros arquivos de configuração e documentação)
